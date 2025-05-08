@@ -1,10 +1,12 @@
 <script>
-  let count = $state(0)
+  import { writable } from 'svelte/store';
+
+  let count = writable(0);
   const increment = () => {
-    count += 1
-  }
+    count.update(n => n + 1);
+  };
 </script>
 
-<button onclick={increment}>
-  count is {count}
+<button on:click={increment}>
+  count is {$count}
 </button>
