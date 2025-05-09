@@ -3,7 +3,7 @@
 </script>
 
 <main>
-  <h1>My Media Library</h1>
+  <h1>My Library</h1>
   <Library />
 </main>
 
