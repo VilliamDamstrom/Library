@@ -3,9 +3,9 @@
 </script>
 
 <div class="media-card">
-  <img src={item.image} alt={item.title || 'Book cover'} />
+  <img src={item.image} alt={item.title || 'Album cover'} />
   <h3>{item.title}</h3>
-  <p><strong>{item.author}</strong></p>
+  <p><strong>{item.artist}</strong></p>
   <p>{item.year}</p>
 </div>
 

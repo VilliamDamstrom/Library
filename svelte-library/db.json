@@ -1,44 +1,58 @@
 {
   "items": [
     {
-      "id": 1,
+      "id": "1",
       "title": "The Hobbit",
-      "creator": "J.R.R. Tolkien",
+      "author": "J.R.R. Tolkien",
       "type": "Book",
+      "year": 1937,
       "borrowed": false,
       "image": "https://images-na.ssl-images-amazon.com/images/I/91b0C2YNSrL.jpg"
     },
     {
-      "id": 2,
+      "id": "2",
       "title": "Dark Side of the Moon",
-      "creator": "Pink Floyd",
+      "artist": "Pink Floyd",
       "type": "Album",
+      "year": 1973,
       "borrowed": false,
       "image": "https://upload.wikimedia.org/wikipedia/en/3/3b/Dark_Side_of_the_Moon.png"
     },
     {
-      "id": 3,
+      "id": "3",
       "title": "Inception",
-      "creator": "Christopher Nolan",
+      "director": "Christopher Nolan",
       "type": "Movie",
+      "year": 2010,
       "borrowed": false,
-      "image": "https://m.media-amazon.com/images/I/51v5ZpFyaFL._AC_.jpg"
+      "image": "https://m.media-amazon.com/images/I/81p+xe8cbnL._AC_SY679_.jpg"
     },
     {
-      "id": 4,
+      "id": "4",
       "title": "1984",
-      "creator": "George Orwell",
+      "author": "George Orwell",
       "type": "Book",
+      "year": 1949,
       "borrowed": false,
       "image": "https://m.media-amazon.com/images/I/71kxa1-0mfL.jpg"
     },
     {
-      "id": 5,
+      "id": "5",
       "title": "Abbey Road",
-      "creator": "The Beatles",
+      "artist": "The Beatles",
       "type": "Album",
+      "year": 1969,
       "borrowed": false,
       "image": "https://upload.wikimedia.org/wikipedia/en/4/42/Beatles_-_Abbey_Road.jpg"
+    },
+    {
+      "id": "91ed",
+      "title": "sfsaf",
+      "author": "fsfaf",
+      "type": "Book",
+      "year": 2023,
+      "borrowed": false,
+      "image": "fas"
     }
   ]
 }
