@@ -4,7 +4,7 @@
       "id": 1,
       "title": "The Hobbit",
       "author": "J.R.R. Tolkien",
-      "type": "book",
+      "type": "Book",
       "borrowed": false,
       "image": "https://images-na.ssl-images-amazon.com/images/I/91b0C2YNSrL.jpg"
     },
@@ -12,7 +12,7 @@
       "id": 2,
       "title": "Dark Side of the Moon",
       "artist": "Pink Floyd",
-      "type": "album",
+      "type": "Album",
       "borrowed": false,
       "image": "https://upload.wikimedia.org/wikipedia/en/3/3b/Dark_Side_of_the_Moon.png"
     },
@@ -20,7 +20,7 @@
       "id": 3,
       "title": "Inception",
       "director": "Christopher Nolan",
-      "type": "movie",
+      "type": "Movie",
       "borrowed": false,
       "image": "https://m.media-amazon.com/images/I/51v5ZpFyaFL._AC_.jpg"
     },
@@ -28,7 +28,7 @@
       "id": 4,
       "title": "1984",
       "author": "George Orwell",
-      "type": "book",
+      "type": "Book",
       "borrowed": false,
       "image": "https://m.media-amazon.com/images/I/71kxa1-0mfL.jpg"
     },
@@ -36,7 +36,7 @@
       "id": 5,
       "title": "Abbey Road",
       "artist": "The Beatles",
-      "type": "album",
+      "type": "Album",
       "borrowed": false,
       "image": "https://upload.wikimedia.org/wikipedia/en/4/42/Beatles_-_Abbey_Road.jpg"
     }

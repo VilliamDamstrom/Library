@@ -3,7 +3,6 @@
 </script>
 
 <main>
-  <h1>My Library</h1>
   <Library />
 </main>
 
